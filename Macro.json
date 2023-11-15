@@ -1,0 +1,21 @@
+[
+    {
+        "RunType": "0",
+        "Exit": "esc+0",
+        "Toggle": "1+esc",
+        "Start": "2+esc",
+        "Stop": "3+esc"
+    },
+    {
+        "shift+Q": "hello world 2",
+        "shift+F": "smaller string",
+        "shift+V": "noice boi",
+        "alt+space": "pikmin",
+        "f1": "Gol Gappe",
+        "l": "Sajal Taking the L"
+    },
+    {
+        "f8": "Brightness_Up",
+        "f7": "Brightness_Down"
+    }
+]
